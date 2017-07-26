@@ -12,7 +12,7 @@
 * these instructions are held and then decrypt them on
 * runtime.
 *
-* (C) Sh4d0w-l0rd 2017 All Rights Reserved
+* (C) Ice3man 2017 All Rights Reserved
 */
 
 #include <windows.h>
